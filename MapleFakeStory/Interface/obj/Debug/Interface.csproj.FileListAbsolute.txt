@@ -1,0 +1,5 @@
+C:\Users\Daniel\source\repos\MapleFakeStory\Interface\bin\Debug\Interface.dll
+C:\Users\Daniel\source\repos\MapleFakeStory\Interface\bin\Debug\Interface.pdb
+C:\Users\Daniel\source\repos\MapleFakeStory\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\MapleFakeStory\Interface\obj\Debug\Interface.dll
+C:\Users\Daniel\source\repos\MapleFakeStory\Interface\obj\Debug\Interface.pdb
